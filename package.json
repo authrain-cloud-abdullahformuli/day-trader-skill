@@ -1,0 +1,28 @@
+{
+  "name": "day-trader-skill",
+  "version": "2.0.0",
+  "description": "11 Claude skills for day trading: scan charts, track breaking news, time entries/exits, and replay outcomes with Monte Carlo",
+  "main": "trader-scanner/scan.py",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/day-trader-skill.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "day-trading",
+    "stock-market",
+    "backtesting",
+    "monte-carlo",
+    "paper-trading"
+  ],
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/day-trader-skill/issues"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/day-trader-skill#readme"
+}

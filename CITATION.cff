@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use day-trader-skill, please cite it as below."
+authors:
+  - family-names: Formuli
+    given-names: Abdullah
+    email: authrainmedia@gmail.com
+title: "The Day Trader Skill: 11 Claude Skills for Day Trading"
+version: 2.0.0
+date-released: 2026-11-24
+url: "https://github.com/authrain-cloud-abdullahformuli/day-trader-skill"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/day-trader-skill"
+license: MIT
